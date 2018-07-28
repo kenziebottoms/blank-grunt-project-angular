@@ -2,9 +2,9 @@
 
 An empty Grunt-running setup including:
 
-![](https://img.shields.io/badge/updated-june_1st_2018-green.svg)
-![](https://img.shields.io/badge/grunt-v1.0.2-yellow.svg)
-![](https://img.shields.io/badge/angularJS-v1.7.0-D00027.svg)
+![](https://img.shields.io/badge/updated-july_27th_2018-green.svg)
+![](https://img.shields.io/badge/grunt-v1.0.3-yellow.svg)
+![](https://img.shields.io/badge/angularJS-v1.7.2-D00027.svg)
 ![](https://img.shields.io/badge/jquery-v3.3.1-005FAD.svg)
 ![](https://img.shields.io/badge/lodash-v4.17.10-3554FF.svg)
 
